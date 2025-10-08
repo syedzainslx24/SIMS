@@ -1,0 +1,1 @@
+this is a project devoloped for inhouse inventory management system
